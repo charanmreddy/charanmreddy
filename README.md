@@ -1,5 +1,4 @@
 # 💫 About Me:
-Delving into :<br>☁️Cloud Computing<br>👨‍💻Cryptography<br>🤖AI/ML<br>
 
 
 ## 🌐 Socials:

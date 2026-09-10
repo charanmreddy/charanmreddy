@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergrad building systems software — message brokers, distributed file systems, container runtimes — and a multimodal ML pipeline for diabetic foot ulcer detection.
+Computer Science undergrad building systems software : message brokers, distributed file systems, container runtimes and a multimodal ML pipeline for diabetic foot ulcer detection.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cmr__37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charan-m-reddy) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:charanreddu@gmail.com)
